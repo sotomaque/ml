@@ -1,1 +1,4 @@
 # ml
+
+# dependancies: numpy & pandas
+
